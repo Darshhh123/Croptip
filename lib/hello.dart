@@ -18,7 +18,7 @@ class _HelloState extends State<Hello> {
         children: [
 
           Center(
-            child: Text("helllloooo",style: TextStyle(
+            child: Text("helllooo Good Morning",style: TextStyle(
               color: Colors.red
             ),),
           ),
